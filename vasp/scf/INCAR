@@ -1,0 +1,6 @@
+SYSTEM = Al_fcc
+ISTART = 0
+ICHARG = 2
+ENCUT = 240
+ISMEAR = 1
+SIGMA = 0.2

@@ -1,0 +1,1 @@
+txt = open("C:\Study\Code\Python\vasp\test.txt","r")
